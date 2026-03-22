@@ -1,0 +1,79 @@
+{
+  "company_name": "Raspberry Pi",
+  "official_domains": [
+    "raspberrypi.com"
+  ],
+  "discovered_domains": [
+    {
+      "domain": "forums.raspberrypi.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "pip.raspberrypi.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "rpib.log",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    }
+  ],
+  "visual_assets": [
+    {
+      "url": "https://raspberrypi.com/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://raspberrypi.com",
+      "description": "Favicon (favicon.ico)"
+    }
+  ],
+  "keywords": [
+    "computer hardware",
+    "edge computing",
+    "electronic components",
+    "embedded systems",
+    "industrial automation",
+    "internet of things",
+    "machine vision",
+    "semiconductors",
+    "video surveillance"
+  ],
+  "key_people": [
+    {
+      "name": "Philip Colligan",
+      "role": "CEO, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    },
+    {
+      "name": "John Lazar",
+      "role": "Board Chair / Chair of Trustees, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    },
+    {
+      "name": "Eben Upton",
+      "role": "Founder and CEO, Raspberry Pi Holdings / Founder, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    },
+    {
+      "name": "David Braben",
+      "role": "Founding member / founder, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    },
+    {
+      "name": "Jack Lang",
+      "role": "Founder, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    },
+    {
+      "name": "Pete Lomas",
+      "role": "Founder, Raspberry Pi Foundation",
+      "source_url": "https://www.google.com/search?q=Raspberry+Pi+executives"
+    }
+  ],
+  "social_links": [
+    "https://www.instagram.com/raspberrypi/",
+    "https://www.youtube.com/@raspberrypi",
+    "https://www.facebook.com/RaspberryPi/"
+  ]
+}
