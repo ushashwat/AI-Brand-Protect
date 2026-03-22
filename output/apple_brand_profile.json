@@ -1,0 +1,368 @@
+{
+  "company_name": "Apple",
+  "official_domains": [
+    "apple.com"
+  ],
+  "discovered_domains": [
+    {
+      "domain": "itunes.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apps-marketplace.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "gsa.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "swscan.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "appleid.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "osrecovery.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "devimages-cdn.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "download.developer.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "support.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "idmsa.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "icloud.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "music.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "www.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "deviceservices-external.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "playgrounds-assets-cdn.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "tv.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "store.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "swcdn.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "playgrounds-cdn.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "push.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "gdmf.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "iwork.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "maps.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apps.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "developer.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "configuration.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "swdownload.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "oscdn.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "deviceenrollment.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "appldnld.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "appattest.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "mesu.apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "mac.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.de",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "me.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "airport.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.com.br",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "cdn-itunes.com",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "apple.es",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "carbon.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.com.cn",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "apple.com.tw",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "next.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "cdn-apple.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple-livephotoskit.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple-cloudkit.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.fr",
+      "registrant_org": "Apple France",
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "icloud-content.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.com.mx",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "cdn-me.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.com.hk",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "icloud.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.com.au",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.it",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "apple.nl",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.co.uk",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "apple.ca",
+      "registrant_org": "Apple Canada Inc.",
+      "is_confirmed_owned": true
+    }
+  ],
+  "visual_assets": [
+    {
+      "url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743",
+      "asset_type": "logo",
+      "source_page": "https://apple.com",
+      "description": "OpenGraph image"
+    },
+    {
+      "url": "https://apple.com/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://apple.com",
+      "description": "Favicon (favicon.ico)"
+    }
+  ],
+  "keywords": [
+    "advertising services",
+    "cloud services",
+    "consumer electronics",
+    "digital content distribution",
+    "operating systems",
+    "payment services",
+    "personal computers",
+    "smartphones",
+    "tablet computers",
+    "wearable devices"
+  ],
+  "key_people": [
+    {
+      "name": "Tim Cook",
+      "role": "CEO, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman of the Board, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Wanda Austin",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Alex Gorsky",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Monica Lozano",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Board Director, Apple",
+      "source_url": "https://www.google.com/search?q=Apple+executives"
+    }
+  ],
+  "social_links": [
+    "https://www.facebook.com/apple",
+    "https://www.instagram.com/apple/",
+    "https://www.linkedin.com/company/apple/",
+    "https://www.tiktok.com/@apple",
+    "https://www.youtube.com/@Apple"
+  ]
+}

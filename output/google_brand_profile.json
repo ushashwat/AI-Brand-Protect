@@ -1,0 +1,176 @@
+{
+  "company_name": "Google",
+  "official_domains": [
+    "google.com",
+    "youtube.com"
+  ],
+  "discovered_domains": [
+    {
+      "domain": "firebase.google.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "cloud.google.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "support.google.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "developers.google.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "blog.google",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "about.google",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "googlefornonprofits.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "nest.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "safety.google",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "deepmind.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "googlecloud.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "googlevideo.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "googleblog.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "storage.googleapis.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "googleusercontent.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "abc.xyz",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "youtubekids.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    }
+  ],
+  "visual_assets": [
+    {
+      "url": "https://google.com/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://google.com",
+      "description": "Favicon (favicon.ico)"
+    },
+    {
+      "url": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "asset_type": "logo",
+      "source_page": "https://youtube.com",
+      "description": "OpenGraph image"
+    },
+    {
+      "url": "https://www.youtube.com/s/desktop/1dd30f43/img/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://youtube.com",
+      "description": "Favicon (icon)"
+    },
+    {
+      "url": "https://youtube.com/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://youtube.com",
+      "description": "Favicon (favicon.ico)"
+    }
+  ],
+  "keywords": [
+    "application software",
+    "cloud computing services",
+    "consumer electronics",
+    "data center services",
+    "digital advertising",
+    "interactive media and services",
+    "internet content and information",
+    "internet services and infrastructure",
+    "systems software"
+  ],
+  "key_people": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Larry Page",
+      "role": "Co-founder",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "Co-founder",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Philipp Schindler",
+      "role": "Chief Business Officer",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Don Harrison",
+      "role": "President, Corporate Development",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Kent Walker",
+      "role": "SVP, Global Affairs",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    },
+    {
+      "name": "Lorraine Twohill",
+      "role": "SVP, Global Marketing",
+      "source_url": "https://www.google.com/search?q=Google+executives"
+    }
+  ],
+  "social_links": [
+    "https://www.facebook.com/Google",
+    "https://www.instagram.com/google/",
+    "https://www.linkedin.com/company/google/",
+    "https://www.pinterest.com/google/",
+    "https://www.tiktok.com/@google",
+    "https://www.youtube.com/google"
+  ]
+}

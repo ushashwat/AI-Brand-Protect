@@ -1,0 +1,315 @@
+{
+  "company_name": "Microsoft",
+  "official_domains": [
+    "microsoft.com"
+  ],
+  "discovered_domains": [
+    {
+      "domain": "teams.microsoft.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftteams.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msedge.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftuwp.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftpartnercommunity.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msidentity.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "onestore.ms",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsofttranslator.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftaccountguard.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "office.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "sharepoint.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "cloud.microsoft",
+      "registrant_org": "Microsoft Corporation",
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsofthouse.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftadvertising.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftstream.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftlatamaitour.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftcommunitytraining.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "mymicrosoft.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msft.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftsiteselection.com",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "microsoftinternetsafety.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftedge.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftcloudworkshop.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftapp.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "onenote.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "powerautomate.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftstore.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "office365.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftonline.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsofttradein.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "powerbi.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msauth.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msocdn.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftcloud.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsofthouse.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftlinc.com",
+      "registrant_org": null,
+      "is_confirmed_owned": false
+    },
+    {
+      "domain": "microsoftaffiliates.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoft365.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msft.info",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "outlook.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftready.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "microsoftpersonalcontent.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "powerapps.com",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msecnd.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "msauthimages.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    },
+    {
+      "domain": "office.net",
+      "registrant_org": null,
+      "is_confirmed_owned": true
+    }
+  ],
+  "visual_assets": [
+    {
+      "url": "https://microsoft.com/favicon.ico",
+      "asset_type": "favicon",
+      "source_page": "https://microsoft.com",
+      "description": "Favicon (favicon.ico)"
+    }
+  ],
+  "keywords": [
+    "application software",
+    "business application software",
+    "cloud computing services",
+    "computer hardware",
+    "consumer electronics",
+    "database software",
+    "enterprise software",
+    "productivity software",
+    "system software",
+    "video game software"
+  ],
+  "key_people": [
+    {
+      "name": "Satya Nadella",
+      "role": "Chairman and CEO",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Brad Smith",
+      "role": "Vice Chair and President",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Amy Hood",
+      "role": "Executive Vice President and Chief Financial Officer",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Judson Althoff",
+      "role": "CEO of Microsoft’s commercial business",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Amy Coleman",
+      "role": "Executive Vice President and Chief People Officer",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Kathleen Hogan",
+      "role": "Executive Vice President, Office of Strategy and Transformation",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "Takeshi Numoto",
+      "role": "Executive Vice President and Chief Marketing Officer",
+      "source_url": "https://www.microsoft.com/en-us/about/leadership"
+    },
+    {
+      "name": "William H. Gates",
+      "role": "Founder; Chairman of the Board; Chief Executive Officer",
+      "source_url": "https://www.google.com/search?q=Microsoft+executives"
+    },
+    {
+      "name": "Steven A. Ballmer",
+      "role": "Chief Executive Officer; Executive Vice President, Sales and Support",
+      "source_url": "https://www.google.com/search?q=Microsoft+executives"
+    },
+    {
+      "name": "Paul G. Allen",
+      "role": "Founder",
+      "source_url": "https://www.google.com/search?q=Microsoft+executives"
+    }
+  ],
+  "social_links": [
+    "https://www.facebook.com/Microsoft",
+    "https://www.linkedin.com/company/microsoft/",
+    "https://www.threads.net/@microsoft"
+  ]
+}
